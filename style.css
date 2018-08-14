@@ -75,7 +75,7 @@ select.input_text {
 	cursor:pointer;
 }
 .clean{
-	background: #4d4f53 url('../img/close.png') 0 0 no-repeat;
+	background: #4d4f53 url('https://1.bp.blogspot.com/-SgdV-W868po/W3NIV2Jc9JI/AAAAAAAAAxc/GkDfMUP2SZMxrrlR2Zjqd8x72OwYM5K3wCLcBGAs/s1600/close.png') 0 0 no-repeat;
 	border-radius: 50%;
 	cursor: pointer;
 	height: 24px;
@@ -87,12 +87,12 @@ select.input_text {
 	-webkit-transition: all .5s;
 }
 .clean:hover {
-	background: #6f808f url('../img/close.png') 0 0 no-repeat;
+	background: #6f808f url('https://1.bp.blogspot.com/-SgdV-W868po/W3NIV2Jc9JI/AAAAAAAAAxc/GkDfMUP2SZMxrrlR2Zjqd8x72OwYM5K3wCLcBGAs/s1600/close.png') 0 0 no-repeat;
 	-webkit-transform: rotate(360deg);
 	transform: rotate(360deg);
 }
 .cleanit{
-	background: #4d4f53 url('../img/close.png') 0 0 no-repeat;
+	background: #4d4f53 url('https://1.bp.blogspot.com/-SgdV-W868po/W3NIV2Jc9JI/AAAAAAAAAxc/GkDfMUP2SZMxrrlR2Zjqd8x72OwYM5K3wCLcBGAs/s1600/close.png') 0 0 no-repeat;
 	border-radius: 50%;
 	cursor: pointer;
 	height: 24px;
@@ -103,7 +103,7 @@ select.input_text {
 	-webkit-transition: all .5s;
 }
 .cleanit:hover {
-	background: rgba(0, 0, 0, 0.87) url('../img/close.png') 0 0 no-repeat;
+	background: rgba(0, 0, 0, 0.87) url('https://1.bp.blogspot.com/-SgdV-W868po/W3NIV2Jc9JI/AAAAAAAAAxc/GkDfMUP2SZMxrrlR2Zjqd8x72OwYM5K3wCLcBGAs/s1600/close.png') 0 0 no-repeat;
 	-webkit-transform: rotate(360deg);
 	transform: rotate(360deg);
 }
